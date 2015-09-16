@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 十二因緣論
+#+DATE: 2015-08-30 21:00:12.498682
+#+PROPERTY: JUAN 0
